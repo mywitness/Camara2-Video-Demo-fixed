@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\android-Camera2Video-master\Application\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="E:\android-Camera2Video-master\Application\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.0_d61eba9f1aae6ff990642c814977a9db7d035f81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\adt-bundle-windows-x64\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="E:\android-Camera2Video-master\Application\build\intermediates\pre-dexed\debug\support-annotations-25.3.0_64d854b6a99836d7d186e24506f46c4f99fc5640.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android-Camera2Video-master\Application\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="E:\android-Camera2Video-master\Application\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.0_cd6e5d8dd6e16cabd93a9f532570611bda29207d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android-Camera2Video-master\Application\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="E:\android-Camera2Video-master\Application\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.0_b02814b6af5fc8bf1ea5da0ec7445ffdb8756b21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android-Camera2Video-master\Application\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="E:\android-Camera2Video-master\Application\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.0_c5cece6d3e4456f349bab3802363b0a6d316b0b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android-Camera2Video-master\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c5d103b270b3f3b50d8e6b44aa8e068b0de33426">
+        <dex dex="E:\android-Camera2Video-master\Application\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.3.0_1f5f000910e5606447351b0b3591a737acd14df0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android-Camera2Video-master\Application\build\intermediates\exploded-aar\com.android.support\support-v13\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09adf6e61abc0fe3b2cb5b1795a7033572475fad">
+        <dex dex="E:\android-Camera2Video-master\Application\build\intermediates\pre-dexed\debug\com.android.support-support-v13-25.3.0_ab2bf8aa3c87b2ba7bd54d67a7057af3dfa73d36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android-Camera2Video-master\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="E:\android-Camera2Video-master\Application\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.0_def7a54a5580a36af282e896f312ad3c09b82f2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android-Camera2Video-master\Application\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="E:\android-Camera2Video-master\Application\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.0_13746a4e4aefe94064880aea9726c8e9db1972ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android-Camera2Video-master\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="E:\android-Camera2Video-master\Application\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.0_aa4108e12d6580058c54d742fb1a9146bc654463.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android-Camera2Video-master\Application\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\android-Camera2Video-master\Application\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.0_3f6fe1dffc13ef2cefc8050f1dd0a9a1440ab8e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android-Camera2Video-master\Application\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="E:\android-Camera2Video-master\Application\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.0_b9af36cc0d5b4e113bf0d2bd14ae846180db8f43.jar" />
+    </item>
+
+</items>
